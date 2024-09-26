@@ -1,0 +1,16 @@
+Информационная безопасность - это совокупность методов, процедур и технических средств, направленных на защиту информации от несанкционированного доступа, изменения, уничтожения, а также от потери конфиденциальности, целостности и доступности. Какие существуют основные угрозы
+
+Троянский конь - это программа, которая выглядит как обычная, но на самом деле содержит вредоносный код.
+
+Троянские программы могут выполнять различные действия, например:
+
+- Скрытно устанавливать другие программы на компьютер
+- Скрытно
+
+The majority of cybercrimes are financially motivated, with the most common types being identity theft, credit card fraud, and bank fraud. According to the FBI's Internet Crime Complaint Center, in 2020, the total losses from cybercrimes in the United States alone were over $4.2 billion, with the majority of those losses resulting from financial fraud. Globally, the cost of cybercrime is estimated to be in the trillions
+
+Программы «Цифровая  экономика  Российской Федерации» на 2018-2024 гг. были утверждены постановлением Правительства РФ от 28.12.2017 N 1682.
+
+# Digital Economy of the Russian Federation Program
+
+The Digital Economy of the Russian Federation Program was approved by the
